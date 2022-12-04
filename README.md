@@ -1,5 +1,8 @@
 # POLYGON LOTTERY (RAFFLE) 
 
+The dApp is hosted on:
+<b>https://snowy-night-5724.on.fleek.co/</b>
+
 The dApp was built using:
 NextJS,
 Solidity,
