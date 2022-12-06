@@ -1,4 +1,5 @@
 # POLYGON LOTTERY (RAFFLE) 
+The smart contract of this dApp is situated in the <b>newBranch</b> branch
 
 The dApp is hosted on:
 <b>https://snowy-night-5724.on.fleek.co/</b>
